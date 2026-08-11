@@ -1,0 +1,26 @@
+2026-08-12 03:18:58,712 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:18:58,712 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:19:26,763 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:19:26,763 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:19:49,172 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:19:49,172 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:20:16,864 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:20:16,864 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:20:23,477 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:20:23,477 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:20:48,349 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:20:48,349 - data_ingestion - ERROR - Failed to complete the data ingestion process: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
+2026-08-12 03:21:21,588 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
+
