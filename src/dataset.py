@@ -38,7 +38,8 @@ def load_data(data_url: str) -> pd.DataFrame:
 def preprocess_data(df: pd.DataFrame) -> pd.DataFrame:
     """Preprocess the data."""
     try:
-        final_df = df[df["Length of Membership"] > 3]
+        df = df.iloc[:, 3:]
+        final_df = df[df["Length of Membership"] > 1]
         return final_df
     except KeyError as e:
         logger.error('Missing column in the dataframe: %s', e)
