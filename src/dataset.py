@@ -38,7 +38,7 @@ def load_data(data_url: str) -> pd.DataFrame:
 def preprocess_data(df: pd.DataFrame) -> pd.DataFrame:
     """Preprocess the data."""
     try:
-        df = df.iloc[:, 3:]
+        df = df.iloc[:, 2:]
         final_df = df[df["Length of Membership"] > 1]
         return final_df
     except KeyError as e:

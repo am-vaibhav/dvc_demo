@@ -24,3 +24,7 @@
 
 2026-08-12 03:21:21,588 - data_ingestion - ERROR - Failed to parse the CSV file: Error tokenizing data. C error: Expected 1 fields in line 40, saw 2
 
+2026-08-12 16:48:25,580 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 104] Connection reset by peer>
+2026-08-12 16:48:25,580 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 104] Connection reset by peer>
+2026-08-12 16:49:08,056 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 104] Connection reset by peer>
+2026-08-12 16:49:08,056 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 104] Connection reset by peer>
