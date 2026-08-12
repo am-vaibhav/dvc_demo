@@ -1,4 +1,6 @@
 [core]
-    remote = local_remote
+    remote = dvcstore
 ['remote "local_remote"']
     url = ../temp
+['remote "dvcstore"']
+    url = s3://dvcdatapipe
