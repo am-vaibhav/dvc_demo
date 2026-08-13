@@ -1,0 +1,2 @@
+2026-08-12 16:49:45,440 - data_ingestion - ERROR - Unexpected error occurred while loading the data: <urlopen error [Errno 104] Connection reset by peer>
+2026-08-12 16:49:45,440 - data_ingestion - ERROR - Failed to complete the data ingestion process: <urlopen error [Errno 104] Connection reset by peer>
